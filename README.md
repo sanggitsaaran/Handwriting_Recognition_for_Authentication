@@ -8,22 +8,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Project Architecture](#project-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-- [Model Details](#model-details)
-- [Data Format](#data-format)
-- [Contact](#contact)
-
----
-
 ## 🎯 Overview
 
 This project implements an intelligent **handwriting recognition and signature verification system** for biometric authentication. Leveraging advanced image processing and machine learning techniques, it classifies signatures as genuine or forged with high accuracy.
